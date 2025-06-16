@@ -1,0 +1,15 @@
+/Users/dhikaputra/Desktop/college/s2/ds/stockku/Stockku/bin/Debug/net9.0/Stockku
+/Users/dhikaputra/Desktop/college/s2/ds/stockku/stockku/bin/Debug/net9.0/Stockku.deps.json
+/Users/dhikaputra/Desktop/college/s2/ds/stockku/stockku/bin/Debug/net9.0/Stockku.runtimeconfig.json
+/Users/dhikaputra/Desktop/college/s2/ds/stockku/Stockku/bin/Debug/net9.0/Stockku.dll
+/Users/dhikaputra/Desktop/college/s2/ds/stockku/Stockku/bin/Debug/net9.0/Stockku.pdb
+/Users/dhikaputra/Desktop/college/s2/ds/stockku/Stockku/obj/Debug/net9.0/Stockku.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dhikaputra/Desktop/college/s2/ds/stockku/Stockku/obj/Debug/net9.0/Stockku.AssemblyInfoInputs.cache
+/Users/dhikaputra/Desktop/college/s2/ds/stockku/Stockku/obj/Debug/net9.0/Stockku.AssemblyInfo.cs
+/Users/dhikaputra/Desktop/college/s2/ds/stockku/Stockku/obj/Debug/net9.0/Stockku.csproj.CoreCompileInputs.cache
+/Users/dhikaputra/Desktop/college/s2/ds/stockku/Stockku/obj/Debug/net9.0/Stockku.sourcelink.json
+/Users/dhikaputra/Desktop/college/s2/ds/stockku/Stockku/obj/Debug/net9.0/Stockku.dll
+/Users/dhikaputra/Desktop/college/s2/ds/stockku/Stockku/obj/Debug/net9.0/refint/Stockku.dll
+/Users/dhikaputra/Desktop/college/s2/ds/stockku/Stockku/obj/Debug/net9.0/Stockku.pdb
+/Users/dhikaputra/Desktop/college/s2/ds/stockku/stockku/obj/Debug/net9.0/Stockku.genruntimeconfig.cache
+/Users/dhikaputra/Desktop/college/s2/ds/stockku/stockku/obj/Debug/net9.0/ref/Stockku.dll
